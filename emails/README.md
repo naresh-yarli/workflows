@@ -63,7 +63,7 @@ Extract the AI-Email-Auto-Response-Workflow.json file from zip file.
 
 1. Open your n8n instance or n8n cloud
 2. Go to **Workflows** → **Import from File**
-3. Upload the `ai-email-workflow.json` file
+3. Upload the `I-Email-Auto-Response-Workflow.json` file
 4. Click **Import**
 
 ### 2. Configure Gmail Credentials
@@ -401,7 +401,6 @@ This workflow is available under a **Commercial License**.
 - ✅ Complete workflow file
 - ✅ Setup and customization documentation
 - ✅ Email templates and examples
-- ✅ 30-day money-back guarantee
 - ✅ 1 year of free updates
 - ✅ Basic implementation support
 
