@@ -1,4 +1,4 @@
-# AI Email Auto-Response Workflow
+# AI Email Auto-Response Workflow - [Get it for $49](https://yarli.kit.com/products/ai-email-auto-response-workflow)
 
 > Intelligent email automation that never misses a customer inquiry. Automatically classify, label, and respond to emails with AI-powered precision.
 
