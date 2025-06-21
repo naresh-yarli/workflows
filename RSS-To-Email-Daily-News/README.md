@@ -2,7 +2,7 @@
 
 ## Transform RSS Chaos into Executive Intelligence
 
-A production-ready **n8n workflow** that automatically aggregates news from 60+ RSS feeds, intelligently categorizes content, and delivers **investor-grade daily briefings** via beautifully formatted HTML emails.
+A production-ready **n8n workflow** that automatically aggregates news from 100s of RSS feeds, intelligently categorizes content, and delivers **investor-grade daily briefings** via beautifully formatted HTML emails.
 
 Perfect for investment firms, consulting companies, research teams, and executives who need to stay ahead of rapidly evolving markets.
 
