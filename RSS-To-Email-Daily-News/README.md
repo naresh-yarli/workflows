@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Daily News Briefing System
+# 🚀 AI-Powered Daily News Briefing System - [Get it for $1000](https://yarli.kit.com/products/ai-powered-daily-news-briefing-system)
 
 ## Transform RSS Chaos into Executive Intelligence
 
