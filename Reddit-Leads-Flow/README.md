@@ -1,4 +1,4 @@
-# Reddit Lead Generation Workflow
+# Reddit Lead Generation Workflow - [Get it for $149](https://yarli.kit.com/products/reddit-leads-flow)
 
 An automated n8n workflow that monitors multiple Reddit subreddits for potential leads, scores them using AI, and saves qualified leads to Google Sheets.
 
